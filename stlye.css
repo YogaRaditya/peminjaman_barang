@@ -1,0 +1,42 @@
+.custom-bg {
+    /* Background image URL */
+    background-image: url('21.png');
+    /* Background size */
+    background-size: cover;
+    /* Background repeat */
+    background-repeat: no-repeat;
+    /* Background position */
+    background-position: center;
+    /* Height of the background */
+    height: 100vh;
+    /* Adjust as needed */
+}
+
+.haloo {
+    /* Background image URL */
+    background-image: url('22.png');
+    /* Background size */
+    background-size: cover;
+    /* Background repeat */
+    background-repeat: no-repeat;
+    /* Background position */
+    background-position: center;
+    /* Height of the background */
+    height: 100vh;
+    /* Adjust as needed */
+}
+
+
+.haloow {
+    /* Background image URL */
+    background-image: url('20.png');
+    /* Background size */
+    background-size: cover;
+    /* Background repeat */
+    background-repeat: no-repeat;
+    /* Background position */
+    background-position: center;
+    /* Height of the background */
+    height: 100vh;
+    /* Adjust as needed */
+}
